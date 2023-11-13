@@ -4,7 +4,7 @@ authors: Jakub Jabłoński, Dominik Tendera
 
 
 # 1. What is the problem?
-  Air pollution is aldready a serious problem especially in larger cities. In the long term, smog can cause many health problems, such as respiratory disease or even a cancer. It is good to know whether the air sorrounding us is good or bad for our health in order to prevent its effects.
+  Air pollution is aldready a serious problem especially in larger cities. In the long term, smog can cause many health problems, such as respiratory disease or even a cancer. It is good to know whether the air sorrounding us is good or bad for our health in order to prevent its effects. That's why we came up with the idea of creating an air pollution sensor, that will show the user the air quiality in his room.
 # 2. The environment in which the device will work.
 # 3. Minimum functionality/ design assumptions.
 # 4. Solutions from the market (pros, cons, costof the deviceand maintenance).
