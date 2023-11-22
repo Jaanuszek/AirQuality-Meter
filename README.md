@@ -8,7 +8,7 @@ authors: Jakub Jabłoński, Dominik Tendera
 # 2. The environment in which the device will work.
 # 3. Minimum functionality/ design assumptions.
 # 4. Solutions from the market (pros, cons, costof the deviceand maintenance).
-# 5. Myidea(comparisonwith the competition).
+# 5. My idea(comparisonwith the competition).
 # 6. PROJECT description(diagram, schematics, behavioralmodel, simulation).
 # 7. Prototype(proof of concept).
 # 8. TESTS
