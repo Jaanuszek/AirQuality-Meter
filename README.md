@@ -17,8 +17,8 @@ design assumptions:
 -high efficiency
 -user friendly
 
-# 4. Solutions from the market (pros, cons, costof the deviceand maintenance).
-# 5. My idea(comparisonwith the competition).
-# 6. PROJECT description(diagram, schematics, behavioralmodel, simulation).
+# 4. Solutions from the market (pros, cons, cost of the device and maintenance).
+# 5. My idea(comparison with the competition).
+# 6. PROJECT description(diagram, schematics, behavioral model, simulation).
 # 7. Prototype(proof of concept).
 # 8. TESTS
