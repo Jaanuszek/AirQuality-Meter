@@ -11,11 +11,11 @@ The device is supposed to work indoors in stable conditions. It can be set outdo
 Minimum functionality:
 -The device should work, i.e. it has to measure air pollution, and the measurement should be displayed on the LCD screen.
 design assumptions:
--low cost
--easy to set up
--low power consumption
--high efficiency
--user friendly
+- low cost
+- easy to set up
+- low power consumption
+- high efficiency
+- user friendly
 
 # 4. Solutions from the market (pros, cons, cost of the device and maintenance).
 # 5. My idea(comparison with the competition).
