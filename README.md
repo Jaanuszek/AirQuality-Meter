@@ -23,16 +23,20 @@ design assumptions:
 - User-friendly interfaces
 - Build-in battery, so it does not need to be powered by a charger
 - It uses little space
+  
 **Cons:**
 - There are a lot of various devices, so it is hard to decide what device will suit the user
 - It can be very expensive
 - some air purity meters have additional functions, which are not necessarily needed by the user
 - lots of kitschy-looking devices
+  
 **Cost of the device:**
 - cost oscillate from 200zł to 1000zł
+  
 **Maintenance:**
 - Producents typically provide 2 years of warranty
-- These products generally are tiny, so it may be tough or even impossible to repair them by yourself 
+- These products generally are tiny, so it may be tough or even impossible to repair them by yourself
+  
 
 # 5. My idea(comparison with the competition).
 # 6. PROJECT description(diagram, schematics, behavioural model, simulation).
